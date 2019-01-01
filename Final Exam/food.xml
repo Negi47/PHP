@@ -1,0 +1,13 @@
+<mainmenu>
+
+    <item>
+        <name>samosa</name>
+        <price>12.33</price>
+    </item>
+
+    <item>
+        <name>kachod</name>
+        <price>1233.33</price>
+    </item>
+
+</mainmenu>
